@@ -1,4 +1,4 @@
-# Petty - Schedule services to your pets in one click
+# Petty - Schedule services for your pets in one click
 # How to run:
  Install NVM
  
